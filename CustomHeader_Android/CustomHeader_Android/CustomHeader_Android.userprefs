@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{83E46449-89FD-4CC1-8D0C-FE09DEE6E273}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CustomHeader_Android/MainActivity.cs" Line="35" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomHeader__Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
